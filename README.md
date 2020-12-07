@@ -2,7 +2,7 @@
 
 
 
-<img src="assets/PIFFL.png?raw=true" width="500">
+<img src="assets/PIFFL.png?raw=true" width="600">
 
 
 
