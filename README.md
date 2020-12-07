@@ -1,6 +1,7 @@
 # Physics-Informed Feature-to-Feature Learning (PIFFL)
 
 
+
 <img src="assets/PIFFL.png?raw=true" width="500">
 
 
@@ -17,3 +18,11 @@
 ## Overview
 
 This repository contains Matlab implementation of the algorithm framework for Physics-Informed Feature-to-Feature Learning for Dimensionality Reduction, including the implementation of Principal Component Analysis, Active-Subspace Method and Gaussian Process Regression.
+
+## Test Pipelines
+
+Following the different pipelines were tested:
+
+<img src="assets/pipelines.pdf?raw=true" width="500">
+
+This first pipeline is the Typical [Active Subspace Method](http://activesubspaces.org/)
