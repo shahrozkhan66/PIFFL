@@ -1,4 +1,4 @@
-# Physics-Informed Feature-to-Feature Learning for Dimensionality Reduction in Shape Optimisation (PIFFL)
+# Physics-Informed Feature-to-Feature Learning (PIFFL)
 
 
 **Physics-Informed Feature-to-Feature Learning for Design-Space Dimensionality Reduction in Shape Optimisation**
