@@ -1,7 +1,7 @@
 # Physics-Informed Feature-to-Feature Learning (PIFFL)
 
 
-<img src="https://github.com/shahrozkhan66/PIFFL/blob/master/assets/PIFFL.png?raw=true" width="500">
+<img src="assets/PIFFL.png?raw=true" width="500">
 
 
 
