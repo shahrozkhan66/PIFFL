@@ -1,6 +1,10 @@
 # Physics-Informed Feature-to-Feature Learning (PIFFL)
 
 
+<img src="https://github.com/shahrozkhan66/PIFFL/blob/master/assets/PIFFL.png?raw=true" width="500">
+
+
+
 **Physics-Informed Feature-to-Feature Learning for Design-Space Dimensionality Reduction in Shape Optimisation**
 
 [Shahroz Khan](https://www.shahrozkhan.info/)\*, [Andrea Serani](http://www.inm.cnr.it/people/andrea-serani/)\, [Matteo Diez](http://www.inm.cnr.it/people/matteo-diez/)\, [Panagiotis Kaklis](https://www.strath.ac.uk/staff/kaklispanagiotisprof/)
