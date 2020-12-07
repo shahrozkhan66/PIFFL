@@ -24,5 +24,10 @@ This repository contains Matlab implementation of the algorithm framework for Ph
 Following the different pipelines were tested:
 
 <img src="assets/pipeline.pdf?raw=true" width="500">
+<object data="ssets/pipeline.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="ssets/pipeline.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 This first pipeline is the Typical [Active Subspace Method](http://activesubspaces.org/)
