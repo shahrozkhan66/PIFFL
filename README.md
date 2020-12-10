@@ -25,4 +25,4 @@ Following the different pipelines were tested:
 
 <img src="assets/pipeline.png?raw=true" width="700">
 
-This first pipeline is the Typical [Active Subspace Method](http://activesubspaces.org/), second pipeline is the proposed approach, which combaine widely used [Principal Compnent Analysis](https://doi.org/10.1016/j.cma.2014.10.042) and [Active Subspace Method](http://activesubspaces.org/) and last pipeline is the compaines [Physics-informed Principal Compnent Analysis](https://doi.org/10.2514/6.2017-3665) with [Active Subspace Method](http://activesubspaces.org/).
+This first pipeline is the Typical [Active Subspace Method](http://activesubspaces.org/), second pipeline is the proposed approach, which combaine widely used [Principal Compnent Analysis](https://doi.org/10.1016/j.cma.2014.10.042) and [Active Subspace Method](http://activesubspaces.org/) and last pipeline is the  [Physics-informed Principal Compnent Analysis](https://doi.org/10.2514/6.2017-3665) with [Active Subspace Method](http://activesubspaces.org/).
