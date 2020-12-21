@@ -27,4 +27,5 @@ Following the different pipelines were tested:
 
 This first pipeline is the Typical [Active Subspace Method](http://activesubspaces.org/), second pipeline is the proposed approach, which combaine widely used [Principal Compnent Analysis](https://doi.org/10.1016/j.cma.2014.10.042) and [Active Subspace Method](http://activesubspaces.org/) and last pipeline is the  [Physics-informed Principal Compnent Analysis](https://doi.org/10.2514/6.2017-3665) with [Active Subspace Method](http://activesubspaces.org/).
 
-**This work has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant "[GRAPES](http://grapes-network.eu/): learninG, pRocessing And oPtimising shapES" (agreement No. 860843).**
+## Acknowledgement 
+**The first author is grateful to the  Mac Robertson Trust for sponsoring his visit to [CNR-INM](http://www.inm.cnr.it/) through their Postgraduate Travel Scholarship program. CNR-INM authors are grateful to the US Office of Naval Research for its support through NICOP grant N62909-18-1-2033. The first and last author of this work has also received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant "[GRAPES](http://grapes-network.eu/): learninG, pRocessing And oPtimising shapES" (agreement No. 860843).**
